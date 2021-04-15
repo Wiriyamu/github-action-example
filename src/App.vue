@@ -11,6 +11,9 @@ export default {
   components: {
     HelloWorld,
   },
+  setup() {
+    const test = 0
+  }
 };
 </script>
 
